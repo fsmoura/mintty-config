@@ -1,6 +1,6 @@
 BoldAsFont=-1
 Font=Consolas
-FontHeight=14
+FontHeight=11
 Columns=87
 Rows=21
 ForegroundColour=248,248,242
@@ -22,3 +22,4 @@ Cyan=161,239,228
 BoldCyan=95,227,210
 White=248,248,242
 BoldWhite=249,248,245
+Transparency=low
